@@ -9,8 +9,7 @@ import UserShow from './views/pages/UserShow.jsx'
 
 
 function App() {
-  const name = "akshay"
-
+ 
   return (
     <>
     <Toaster position='top-centert'/>
